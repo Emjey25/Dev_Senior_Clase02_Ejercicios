@@ -19,3 +19,6 @@ Este archivo contiene un programa que solicita al usuario que ingrese tres palab
 ## Licencia 📜
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+![image](https://github.com/user-attachments/assets/e52bacd2-a01d-4e18-a0c4-012c17e69bd6)
+
