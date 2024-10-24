@@ -16,9 +16,5 @@ Este archivo contiene un programa que imprime un diamante en la consola utilizan
 ### [PedirPalabras.java](PedirPalabras.java)
 Este archivo contiene un programa que solicita al usuario que ingrese tres palabras y luego las imprime en una sola línea separadas por espacios. Es útil para practicar la entrada de datos y la manipulación de cadenas. ✍️
 
-## Licencia 📜
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ![image](https://github.com/user-attachments/assets/e52bacd2-a01d-4e18-a0c4-012c17e69bd6)
 
